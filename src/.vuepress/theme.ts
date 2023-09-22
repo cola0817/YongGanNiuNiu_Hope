@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Mr.Cola",
-    url: "https://github.com/cola0817/jinzhong-study-hope",
+    url: "https://github.com/cola0817/YongGanNiuNiu_Hope",
     email: "cola0817jz@gmail.com"
   },
 
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "cola0817/jinzhong-study-hope",
+  repo: "cola0817/YongGanNiuNiu_Hope",
 
   docsDir: "src",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Power by <a href=\"https://github.com/cola0817/jinzhong-study-hope/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
+      footer: "Power by <a href=\"https://github.com/cola0817/YongGanNiuNiu_Hope/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
 
       displayFooter: true,
 
@@ -68,8 +68,8 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "cola0817/jinzhong-study-hope",
-      repoId: "R_kgDOKIHB3w",
+      repo: "cola0817/YongGanNiuNiu_Hope",
+      repoId: "R_kgDOKWySUA",
       category: "Announcements",
       categoryId: "DIC_kwDOKIHB384CYqQ3",
     },

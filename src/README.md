@@ -12,13 +12,8 @@ tagline: This is a docs for jinZhong study by Cola.
 actions:
 
   - text: 中文版 💡
-    link: ./zh/study/
+    link: ./zh/
     type: primary
-  - text: 英文版 🥶
-    link: ./demo/
-
-  - text: Docs
-    link: ./guide/
 
 highlights:
   - header: Day By Day 💕
@@ -27,7 +22,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: Spring 🍃 <code>When I come, it is not spring, and when I go, spring is full of youth.
-      - title: TaoHua 👺 <code>Just so so ! 🙂</code> 
+      - title: TaoHua 👺 <code>Just so so ! 🙂</code>
 
   - header: Log for course
     description: Log for every day !
@@ -44,7 +39,7 @@ highlights:
         icon: circle-half-stroke
         details: Record study for bilibili university！
         link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
-        
+
 copyright: false
 footer: Power by <a href="https://github.com/cola0817/jinzhong-study-hope" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
 ---

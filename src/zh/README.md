@@ -1,46 +1,64 @@
 ---
 home: true
 icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E4%B8%BB%E9%A1%B5.svg
-title: 晋中学院学习记录
+title: 晋中学院 & 勇敢牛牛 🐄
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 晋中学院学习记录。
-tagline: Cola 晋中学院期间学习记录。
+heroText: 晋中学院 & 勇敢牛牛 🐄
+tagline: 去年今日此门中，人面桃花相映红。</br>人面不知何处去，桃花依旧笑春风。
 actions:
-  - text: 开始 💡
+  
+
+  - text: 文档 💡
     link: ./study/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 资料获取
+    link: http://8.130.21.128:5244/
 
 highlights:
-  - header: 日记
+  - header: 新手友好
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    description: 提供完善的入门教程及评论系统
     highlights:
-      - title: 春 🍃 <code>偏我来时春不在，偏我去时春满城。</code> 
-      - title: 桃花 👺 </br></br><code>去年今日此门中，人面桃花相映红。</br></br>人面不知何处去，桃花依旧笑春风。</code>
+      - title: 从 0 到 1 👩‍💻<code>各种软件以及相关安装教程</code> 让你不再为安装软件而烦恼！
+      - title: 评论 🤥 <code>遇到不懂的评论~</code>
+      
+  - header: 手自笔录
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    features:
+    - title: 学校课程 🍃
+      icon: comment-dots
+      details: 提供相关课程的电子资料，以及相关笔记
+      link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
 
-  - header: 课程记录
-    description: 记录每一天！
+    - title: 哔哩哔哩大学 👺
+      icon: circle-info
+      details: 星光不负赶路人
+      link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+
+  - header: 项目
+    description: 项目搭建记录
     image: /assets/image/layout.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: 学校课程
-        icon: object-group
-        details: 记录学校课程。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
-
-      - title: 自学
-        icon: circle-half-stroke
-        details: 记录 bilibili 大学！
-        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
+    - title: HelloWorld
+      icon: circle-half-stroke
+      details: 提供各种技术的模板代码便于开发
+      link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
+        
+    - title: 技巧
+      icon: object-group
+      details: 每天学习一些技巧！
+      link: https://theme-hope.vuejs.press/zh/guide/layout/
 
 copyright: false
 footer: 使用 <a href="https://github.com/cola0817/jinzhong-study-hope" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
@@ -49,9 +67,8 @@ footer: 使用 <a href="https://github.com/cola0817/jinzhong-study-hope" target=
 
 
 
+# 勇敢牛牛 🐄
 
-这是一个由 Cola 写的关于晋中的文档。
-
-想要使用，你需要在页面上方点击 `开始`。你也可以使用`文档` 按钮来显示目录。
-
+- 点击页面上方 `文档 💡` 按钮快速开始
+- `资料获取` 按钮快速跳转到 [ColaAlist](http://8.130.21.128:5244/)  获取你想要的资料
 
