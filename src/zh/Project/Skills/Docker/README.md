@@ -12,7 +12,7 @@ category:
 ## 目录
 
 - [Docker 入门](docker_01.md)
-- [Docker 安装常用服务](dockerr_02.md)
+- [Docker 安装常用服务](docker_02.md)
 - [使用 Docker容器配置 MySQL 主从数据库](docker_03.md)
 
 
