@@ -7,13 +7,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Cola Log",
-      description: "A docs demo for Cola",
+      title: "勇敢牛牛",
+      description: "A docs  for Cola",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "Cola Log",
-      description: "Cola 的文档演示",
+      title: "勇敢牛牛",
+      description: "Cola NN",
     },
   },
 
