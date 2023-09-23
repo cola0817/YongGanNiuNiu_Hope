@@ -1,7 +1,8 @@
 ---
 title: Vue
 index: false
-icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/Vue.svg
+icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/vue.svg
+category:
   - Project
   - HelloWorld
   - Vue
