@@ -71,7 +71,7 @@ export default hopeTheme({
       repo: "cola0817/YongGanNiuNiu_Hope",
       repoId: "R_kgDOKWySUA",
       category: "Announcements",
-      categoryId: "DIC_kwDOKIHB384CYqQ3",
+      categoryId: "DIC_kwDOKWySUM4CZjUj",
     },
 
     // All features are enabled for demo, only preserve features you need here
