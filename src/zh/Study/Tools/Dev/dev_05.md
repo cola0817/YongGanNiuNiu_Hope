@@ -1,5 +1,6 @@
 ---
 title: ColaAlist 的使用
+order: 5
 category:
   - Study
   - Tools
@@ -8,7 +9,6 @@ category:
 
 ---
 
-## ColaAlist 的使用
 
 ![image-20230923200932142](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923200932142.png)
 
@@ -16,7 +16,7 @@ category:
 
 ## 一、限速
 
-参考  [使用 IDM 搭配 ColaAList 实现 DDDD](./dev04.md)
+参考  [使用 IDM 搭配 ColaAList 实现 DDDD](./dev_04.md)
 
 
 
@@ -53,6 +53,7 @@ Alist 挂载的 百度网盘如果不替换 User-Agent 的话会存在视频加�
 
 ## 四、webDav 挂载
 
+TODO
 
 
 ## 五、主流平台适配

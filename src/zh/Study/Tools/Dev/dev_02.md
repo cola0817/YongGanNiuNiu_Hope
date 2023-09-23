@@ -1,5 +1,6 @@
 ---
 title: IDEA 等工具中常用插件及破解
+order: 2
 category:
   - Study
   - Tools
@@ -7,11 +8,9 @@ category:
   - MD
 ---
 
-## IDEA 等工具中常用插件及破解
+## 一、常用插件
 
-# 一、常用插件
-
-## 1.1 Atom Material Icons
+### 1.1 Atom Material Icons
 
 美化你的 IDEA 包括：
 
@@ -21,25 +20,25 @@ category:
 
 ![image-20230923190628328](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923190628328.png)
 
-## 1.2 Chinese Language Package
+### 1.2 Chinese Language Package
 
 中文语言支持包（汉化 ~）
 
 ![image-20230923190713588](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923190713588.png)
 
-## 1.3 CodeGlance Pro
+### 1.3 CodeGlance Pro
 
 提供代码缩略图，减少鼠标滚动 🤣
 
 ![image-20230923191013037](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923191013037.png)
 
-## 1.4 Gitee
+### 1.4 Gitee
 
 让你的 IDEA 支持 Gitee
 
 ![image-20230923191035979](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923191035979.png)
 
-## 1.5 GitToolBox
+### 1.5 GitToolBox
 
 提供更方便的 git 信息提示
 
@@ -47,7 +46,7 @@ category:
 
 ![image-20230923191130284](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923191130284.png)
 
-## 1.6 Jrebel and XRebel
+### 1.6 Jrebel and XRebel
 
 SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
@@ -59,7 +58,7 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 
 
-## 1.7 Rainbow Brackets
+### 1.7 Rainbow Brackets
 
 彩虹括号
 
@@ -67,13 +66,13 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 ![image-20230923192327617](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923192327617.png)
 
-## 1.8 Rainbow CSV
+### 1.8 Rainbow CSV
 
 让你的 csv 变色
 
 ![image-20230923192412855](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923192412855.png)
 
-## 1.9 Restful Fast Request
+### 1.9 Restful Fast Request
 
 快速调试 api Very Nice (专出一篇文章介绍吧)
 
@@ -81,13 +80,13 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 
 
-## 1.10 MyBatisX
+### 1.10 MyBatisX
 
 提供 xxxMapper 至 xxxMapper.xml 的快速导航
 
 ![image-20230923192752496](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923192752496.png)
 
-## 1.11 Nvan Progress Bar
+### 1.11 Nvan Progress Bar
 
 彩虹 🌈 加载框
 
@@ -95,7 +94,7 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 ![image-20230923192853896](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923192853896.png)
 
-## 1.12 JBLJavaToWeb
+### 1.12 JBLJavaToWeb
 
 快速将普通 maven 转换为 web 项目
 
@@ -105,7 +104,7 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 ![image-20230923193034353](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923193034353.png)
 
-# 二、破解
+## 二、破解
 
 插件的 github 链接好像被封了 🤥 可以参照说明使用：
 
@@ -113,7 +112,7 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 
 
 
-## 2.1 一般插件破解
+### 2.1 一般插件破解
 1. [点击下载相关插件](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/tools/LicenseServer-obfuscate-2.0.0.zip)
 
 ![image-20230923185945079](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923185945079.png)
@@ -397,7 +396,7 @@ SpringBoot 项目热启动 (Emmm 好像 devtools 也可以实现 🤩)
 5. 激活
 
 ![](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/20230923185527.png)
-## 2.2 Jrebel and XRebel
+### 2.2 Jrebel and XRebel
 
 ![](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/20230923185815.png)
 

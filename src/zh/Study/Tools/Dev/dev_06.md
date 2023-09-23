@@ -1,5 +1,6 @@
 ---
 title: Picgo 搭配 COS 实现在线图床
+order: 6
 category:
   - Study
   - Tools
@@ -7,15 +8,14 @@ category:
   - MD
 ---
 
-# Picgo 搭配 COS 实现在线图床
 
 需要付费但很便宜除非被盗刷
 
 ![image-20230923215104266](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923215104266.png)
 
-# 一、COS 对象存储技术
+## 一、COS 对象存储技术
 
-## 1.1 概述
+### 1.1 概述
 
 [腾讯 COS 官方文档](https://cloud.tencent.com/document/product/436/11365) 介绍：对象存储控制台是对象存储（Cloud Object Storage，COS）为用户提供的最简单且易于上手的操作方式。用户无需编写代码或运行程序，可直接通过 COS 控制台创建存储桶、上传和分享数据以及数据备份、批量处理等。
 
@@ -26,11 +26,11 @@ COS 还有很多功能如：
 
 等此处只做基本使用 😐
 
-## 1.2 使用
+### 1.2 使用
 
 COS 技术以存储桶 （Bucket） 为基本单元，一个存储桶类似于电脑中的一个盘符（C 盘、D 盘、E盘 等）我们可以在里面像操作文件夹一样对数据进行管理。
 
-### 1.2.1 存储桶的创建
+#### 1.2.1 存储桶的创建
 
 - [Bucket](https://console.cloud.tencent.com/cos/bucket) 控制台
 
@@ -44,7 +44,7 @@ COS 技术以存储桶 （Bucket） 为基本单元，一个存储桶类似于�
 
 每个不同的权限顾名思义很好理解，一般我们搭建图床通常选择公有读私有写
 
-### 1.2.2 相关密钥的获取
+#### 1.2.2 相关密钥的获取
 
 为了搭配下面的 PicGo 我们需要获取 Secreld 等相关信息
 
@@ -56,15 +56,15 @@ COS 技术以存储桶 （Bucket） 为基本单元，一个存储桶类似于�
 
 ![image-20230923214851431](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923214851431.png)
 
-# 二、PicGo 的安装及配置
+## 二、PicGo 的安装及配置
 
-## 2.1 PicGo 概述
+### 2.1 PicGo 概述
 
 **PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具**
 
 ![image-20230923213426063](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923213426063.png)
 
-## 2.2 主要功能
+### 2.2 主要功能
 
 - 支持拖拽图片上传
 - 支持快捷键上传剪贴板里第一张图片
@@ -76,7 +76,7 @@ COS 技术以存储桶 （Bucket） 为基本单元，一个存储桶类似于�
   - 更多第三方插件以及使用了 PicGo 底层的应用可以在 [Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) 找到。欢迎贡献！
 - 支持通过发送 HTTP 请求调用 PicGo 上传（v2.2.0+)
 
-## 2.3 安装及配置
+### 2.3 安装及配置
 
 1. [下载 PicGo](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/soft/PicGo-Setup-2.3.1-x64.exe) 并安装
 

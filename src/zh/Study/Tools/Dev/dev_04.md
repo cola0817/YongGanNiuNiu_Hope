@@ -1,5 +1,6 @@
 ---
 title: 使用 IDM 搭配 ColaAList 实现 DDDD
+order: 4
 category:
   - Study
   - Tools
@@ -7,9 +8,7 @@ category:
   - MD
 ---
 
-## 使用 IDM 搭配 ColaAList 实现 DDDD
-
-# 一、IDM 激活
+## 一、IDM 激活
 
 [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) 可以实现在线更新 ~
 
@@ -46,7 +45,7 @@ Okey
 
 ![image-20230923222030614](https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/image-20230923222030614.png)
 
-# 二、DDDD
+## 二、DDDD
 
 :::danger
 

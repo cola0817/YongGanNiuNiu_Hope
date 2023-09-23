@@ -1,5 +1,6 @@
 ---
 title: Typora 的破解及配置
+order: 7
 category:
   - Study
   - Tools
@@ -7,7 +8,6 @@ category:
   - MD
 ---
 
-## Typora 的破解及配置
 
 ## 一、 破解
 
