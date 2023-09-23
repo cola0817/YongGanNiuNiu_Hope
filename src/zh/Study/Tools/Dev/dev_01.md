@@ -1,5 +1,5 @@
 ---
-title: dev_01
+title: JetBrains 系列
 category:
   - Study
   - Tools
@@ -7,7 +7,7 @@ category:
   - MD
 ---
 
-## dev_01
+## JetBrains 系列
 
 
 

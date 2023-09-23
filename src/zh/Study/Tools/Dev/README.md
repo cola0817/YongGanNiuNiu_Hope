@@ -11,6 +11,6 @@ category:
 
 ## 开发
 
-- [dev_01](dev_01.md)
-- [dev_02](dev_02.md)
+- [JetBrains 系列](dev_01)
+- [Navicat Premium 16](dev_02)
 
