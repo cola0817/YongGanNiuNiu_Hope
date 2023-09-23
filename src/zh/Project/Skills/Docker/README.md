@@ -1,5 +1,6 @@
 ---
 title: Docker
+index: false
 icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/docker.svg
 category:
   - Project
@@ -10,9 +11,9 @@ category:
 
 ## 目录
 
-- [Docker 入门](docker-01.md)
-- [Docker 安装常用服务](docker-02.md)
-- [使用 Docker容器配置 MySQL 主从数据库](docker-03.md)
+- [Docker 入门](docker_01.md)
+- [Docker 安装常用服务](dockerr_02.md)
+- [使用 Docker容器配置 MySQL 主从数据库](docker_03.md)
 
 
 

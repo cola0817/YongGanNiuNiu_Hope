@@ -1,7 +1,7 @@
 ---
 title: 数学
 index: false
-icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E6%8A%80%E5%B7%A7.svg
+icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E6%95%B0%E5%AD%A6%EF%BC%8C%E7%9B%B4%E5%B0%BA.svg
 category:
   - Study
   - ScienceTechnology

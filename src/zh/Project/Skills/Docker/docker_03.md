@@ -1,6 +1,5 @@
 ---
 title: 使用 Docker容器配置 MySQL 主从数据库
-icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/docker.svg
 category:
   - Project
   - Skills

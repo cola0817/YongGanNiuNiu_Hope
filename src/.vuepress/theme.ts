@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/NN.svg",
 
   repo: "cola0817/YongGanNiuNiu_Hope",
 

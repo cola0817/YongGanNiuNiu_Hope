@@ -1,7 +1,7 @@
 ---
 title: 技巧
 index: false
-icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E6%8A%80%E5%B7%A7.svg
+icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/gitee.svg
 category:
   - Project
   - Skills
@@ -10,6 +10,6 @@ category:
 
 ## 目录
 
-- [Java](Java/)
-- [Docker](Docker/)
+- [Java](Java)
+- [Docker](Docker)
 

@@ -1,14 +1,14 @@
 ---
 home: true
-icon: home
-title: jinZhong study Log
-heroImage: /svg-3.0x-mcdd-30-single.svg
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E4%B8%BB%E9%A1%B5.svg
+title: JinZhong&YongGanNN 🐄
+heroImage: /NN.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: jinZhong study Log.
-tagline: This is a docs for jinZhong study by Cola.
+heroText: JinZhong&YongGanNN 🐄
+tagline: Two
 actions:
 
   - text: 中文版 💡
@@ -16,29 +16,45 @@ actions:
     type: primary
 
 highlights:
-  - header: Day By Day 💕
+  - header: Newbie friendly
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    description: Provide a complete introductory tutorial and comment system
     highlights:
-      - title: Spring 🍃 <code>When I come, it is not spring, and when I go, spring is full of youth.
-      - title: TaoHua 👺 <code>Just so so ! 🙂</code>
+      - title: From 0 to 1 👩‍💻<code> Various software and related installation tutorials so you no longer have to worry about installing software!</code>
+      - title: Comments 🤥 <code> I encountered comments that I don’t understand~ </code>
 
-  - header: Log for course
-    description: Log for every day !
+  - header: persistence
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    features:
+      - title: School Curriculum 🍃
+        icon: comment-dots
+        details: Provide electronic materials for relevant courses and relevant notes
+        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+
+      - title: Bilibili University 👺
+        icon: circle-info
+        details: The starlight does not disappoint the traveler
+        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+
+  - header: project
+    description: Project construction records
     image: /assets/image/layout.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: College course
-        icon: object-group
-        details: Log some courses about college.
-        link: https://theme-hope.vuejs.press/guide/layout/
-
-      - title: Custom course
+      - title: HelloWorld
         icon: circle-half-stroke
-        details: Record study for bilibili university！
-        link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
+        details: Provide template codes for various technologies to facilitate development
+        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
+
+      - title: skill
+        icon: object-group
+        details: Learn some tricks every day!
+        link: https://theme-hope.vuejs.press/zh/guide/layout/
 
 copyright: false
 footer: Power by <a href="https://github.com/cola0817/jinzhong-study-hope" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
@@ -48,9 +64,9 @@ footer: Power by <a href="https://github.com/cola0817/jinzhong-study-hope" targe
 
 
 
-This is a docs for jinZhong study by Cola. 🥶
+This is a docs for JinZhong&YongGanNN 🐄 by Cola. 🥶
 
-To use you can clink the `Let us go` action to start , the `Docs` action is to list comments.
+To use you can clink the `中文版` action to start .
 
 
 

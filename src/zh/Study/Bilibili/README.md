@@ -1,7 +1,7 @@
 ---
 title: Bilibili
 index: false
-icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E6%8A%80%E5%B7%A7.svg
+icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.svg
 category:
   - Study
   - Bilibili
@@ -10,6 +10,6 @@ category:
 
 ## Bilibili
 
-- [黑马程序员](Itcast/)
-- [尚硅谷](Itguigu/)
+- [黑马程序员](Itcast)
+- [尚硅谷](Itguigu)
 

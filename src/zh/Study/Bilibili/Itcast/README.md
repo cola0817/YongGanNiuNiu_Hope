@@ -1,7 +1,7 @@
 ---
 title: 黑马程序员
 index: false
-icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E6%8A%80%E5%B7%A7.svg
+icon: https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E9%BB%91%E9%A9%AC.svg
 category:
   - Study
   - Bilibili
@@ -12,6 +12,6 @@ category:
 
 ## 黑马程序员
 
-- [黑马程序员_01](Itcast_01.md)
-- [黑马程序员_02](Itcast_02.md)
+- [黑马程序员_01](itcast_01.md)
+- [黑马程序员_02](itcast_02.md)
 

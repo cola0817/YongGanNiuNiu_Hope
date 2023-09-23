@@ -16,7 +16,6 @@ export const zhSidebar = sidebar({
       prefix: "Study/",
       link: "Study/",
       children: "structure"
-    },
-    "slides",
+    }
   ],
 });

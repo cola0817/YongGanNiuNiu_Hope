@@ -2,7 +2,7 @@
 home: true
 icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E4%B8%BB%E9%A1%B5.svg
 title: 晋中学院 & 勇敢牛牛 🐄
-heroImage: /logo.svg
+heroImage: /NN.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
