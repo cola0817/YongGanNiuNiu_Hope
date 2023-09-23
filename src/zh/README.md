@@ -34,15 +34,26 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-    - title: 学校课程 🍃
-      icon: comment-dots
-      details: 提供相关课程的电子资料，以及相关笔记
-      link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
-
     - title: 哔哩哔哩大学 👺
       icon: circle-info
       details: 星光不负赶路人
-      link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+      link: http://8.130.21.128/zh/Study/Bilibili
+
+    - title: 娱乐 🤩
+      icon: object-group
+      details: 抖音、电影、音乐、旅行~ 😻😻
+      link: http://8.130.21.128/zh/Study/Relax
+
+    - title: 学校课程 🍃
+      icon: comment-dots
+      details: 提供相关课程的电子资料，以及相关笔记
+      link: http://8.130.21.128/zh/Study/ScienceTechnology
+
+    - title: 工欲善其事必先利其器
+      icon: circle-half-stroke
+      details: 你想要的我都有~
+      link: http://8.130.21.128/zh/Study/Tools/Dev
+
 
   - header: 项目
     description: 项目搭建记录
@@ -53,12 +64,12 @@ highlights:
     - title: HelloWorld
       icon: circle-half-stroke
       details: 提供各种技术的模板代码便于开发
-      link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
+      link: http://8.130.21.128/zh/Project/HelloWorld
         
     - title: 技巧
       icon: object-group
       details: 每天学习一些技巧！
-      link: https://theme-hope.vuejs.press/zh/guide/layout/
+      link: http://8.130.21.128/zh/Project/Skills/
 
 copyright: false
 footer: 使用 <a href="https://github.com/cola0817/jinzhong-study-hope" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
